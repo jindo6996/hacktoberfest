@@ -2430,5 +2430,5 @@ Noida
 
 #### Name: [Shivam Jindal](https://github.com/Shivamjindal1)
 - Place: Delhi, India
-- Bio: Web developer PHP and Python
+- Bio: Data scientist Opencv and NLP
 - Github: [Shivam Jindal](https://github.com/Shivamjindal1)

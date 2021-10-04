@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shivam Jindal](https://github.com/Shivamjindal1)
+- Place: Delhi, India
+- Bio: Data scientist Opencv and NLP
+- Github: [Shivam Jindal](https://github.com/Shivamjindal1)
